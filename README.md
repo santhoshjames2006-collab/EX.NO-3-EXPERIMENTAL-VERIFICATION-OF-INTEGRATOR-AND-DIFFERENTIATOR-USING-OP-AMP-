@@ -16,7 +16,7 @@ To design and test the performance of integrator and differentiator circuits usi
 |------|------------------------|--------|-----------|
 | 1 | Function Generator | 3 MHz | 1 |
 | 2 | DSO | 30 MHz | 1 |
-| 3 | Dual RPS | (0 – 30) V | 1 |
+| 3 | Dual RPS | (0 – 30) V | 1 |sas
 | 4 | Op-Amp | µA741 | 1 |
 | 5 | Bread Board | — | 1 |
 | 6 | Resistors | 1K,10K,100K  | 2 |
